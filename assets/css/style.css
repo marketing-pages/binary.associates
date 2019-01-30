@@ -772,6 +772,11 @@ table {
   width: 0px;
   height: 0px; }
 
+.footer-featured-image {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto; }
+
 /* stylelint-enable color-no-hex */
 @media screen and (max-width: 1024px) {
   .lg-center {
